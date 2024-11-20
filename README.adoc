@@ -72,7 +72,7 @@ Der 4-Lektionenblock besteht aus theoretischen (â…“) und praktischen Inhalten (â
 Zentrale Inhalte
 
 - Grundlagen Softwareentwicklung
-- Praxisprojekt: Entwicklung einer Web-Applikation mit Frontend und Backend (z.B. mit [Vue.js](https://vuejs.org/) und [Strapi](https://strapi.io/))
+- Praxisprojekt: Entwicklung einer Web-Applikation mit Frontend und Backend (z.B. mit https://vuejs.org/[Vue.js] und https://strapi.io/[Strapi])
 - Agile Softwareentwicklung im Team
 - Grundlagen Objektorientierter Programmierung, Verwendung von REST APIs
 - Kennenlernen und Einsatz von Werkzeugen wie z.B. Gitlab zur Quellcodeverwaltung/Dokumentation und IDEs wie Visual Studio Code/VSCodium
