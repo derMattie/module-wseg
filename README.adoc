@@ -1,6 +1,6 @@
-link:https://commons.wikimedia.org/wiki/File:Berner_Fachhochschule_Logo_small.svg[image:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png[BFH]]
+link:https://commons.wikimedia.org/wiki/File:Berner_Fachhochschule_Logo_small.svg[image:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png[Logo BFH - Bern University of Applied Sciences]]
 
-link:https://gitpod.io#https://github.com/digital-sustainability/module-wseg[image:https://gitpod.io/button/open-in-gitpod.svg[Open IDE]]
+link:https://gitpod.io#https://github.com/digital-sustainability/module-wseg[image:https://gitpod.io/button/open-in-gitpod.svg[Open IDE in Webbrowser]]
 
 = Modulkonzept
 
@@ -8,9 +8,9 @@ link:https://gitpod.io#https://github.com/digital-sustainability/module-wseg[ima
 
 === Autor: Jörg Berkel
 
-=== link:https://semver.org[Version]: 1.0.3
+=== link:https://semver.org[Version]: 1.0.4
 
-=== Gültig ab: HS 2024 (1.8.2024)
+=== Gültig ab: FS 2025 (1.2.2025)
 
 == Formale Beschreibung
 
@@ -58,7 +58,7 @@ offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Inte
 
 | Kurzbeschreibung +
 (öffentlich, für IS-A) 
-| Im Modul "Software Engineering" lernen die Studierenden, wie sie in einer Gruppe agil Software entwickeln. Das Modul beinhaltet theoretische Inhalte, sowie ein semesterbegleitendes Praxisprojekt pro Gruppe, an dem die Studierenden das Gelernte anwenden und selbständig vertiefen. Im Praxisprojekt geht es neben der Programmierung und dem Einsatz von standardisierten Webtechnologien darum, gemeinsam ein wertschöpfendes Produkt (bzw. Minimal viable Product) zu gestalten und DevOps-Praktiken rund um Gitlab kennenzulernen.
+| Im Modul "Software Engineering" lernen die Studierenden, wie sie in einer Gruppe agil Software entwickeln. Das Modul beinhaltet theoretische Inhalte, sowie ein semesterbegleitendes Praxisprojekt pro Gruppe, an dem die Studierenden das Gelernte anwenden und selbständig vertiefen. Im Praxisprojekt geht es neben der Programmierung und dem Einsatz von standardisierten Webtechnologien darum, gemeinsam ein wertschöpfendes Produkt (bzw. Minimal Viable Product) zu gestalten und DevOps-Praktiken rund um Gitlab kennenzulernen.
 
 | Detaillierte Beschreibung 
 | siehe Modulinhalte und Vermittelte Kompetenzen
@@ -72,9 +72,9 @@ Der 4-Lektionenblock besteht aus theoretischen (⅓) und praktischen Inhalten (�
 Zentrale Inhalte
 
 - Grundlagen Softwareentwicklung
-- Praxisprojekt: Entwicklung einer Web-Applikation mit Frontend und Backend (z.B. mit Vue.js und Strapi)
+- Praxisprojekt: Entwicklung einer Web-Applikation mit Frontend und Backend (z.B. mit [Vue.js](https://vuejs.org/) und [Strapi](https://strapi.io/))
 - Agile Softwareentwicklung im Team
-- Grundlagen Objektorientierte Programmierung
+- Grundlagen Objektorientierter Programmierung, Verwendung von REST APIs
 - Kennenlernen und Einsatz von Werkzeugen wie z.B. Gitlab zur Quellcodeverwaltung/Dokumentation und IDEs wie Visual Studio Code/VSCodium
 
 Methoden
@@ -106,15 +106,16 @@ Literaturstudium, Videos, Projektarbeit: Einzel-/Gruppenarbeiten
 a| +++Fachkompetenzen:+++ Die Studierenden können...
 
 - aus einer Produktidee ein Konzept erstellen und daraus einen Prototyp umsetzen.
-- Wireframes auf Papier und mit einer Software erstellen.
 - Grundbegriffe und Herausforderungen des modernen Software Engineerings erklären.
 - Phasen und Aktivitäten in der Entwicklung von Softwareprodukten erläutern.
 - Methoden und Werkzeuge zur arbeitsteiligen Entwicklung von Softwareprodukten anwenden.
-- Quellcode mit Git verwalten
+- Prinzipien des agilen Vorgehens umsetzen und Anwendungsmöglichkeiten im eigenen Beruf erkennen.
+- lokale Entwicklungsumgebungen einrichten und Quellcode mit Git verwalten
 - eine einfache Single Page Application (Web-Applikation) entwickeln.
+- die Dokumentationen verwendeter Webtechnologien und -frameworks konsultieren.
 - Techniken zur Komplexitätsreduktion einer Software erklären.
 - Qualitätsmerkmale von Softwareprodukten beschreiben.
-- die Dokumentationen verwendeter Webtechnologien und -frameworks konsultieren.
+- Projektdokumentation und -artefakte in einem Repository ablegen bzw. veröffentlichen.
 
 +++Kompetenzen gemäss Kompetenzmodell BFH-W:+++
 
@@ -159,24 +160,28 @@ Vertiefung
 
 - SDA1,2,3 Software Design & Architecture
 
-| Kompetenznachweis*
-a| Teil 1: Projektabgabe mit Zwischenergebnissen (Pitch, Deliverables, Abschlusspräsentation) als Gruppenarbeit mit gemeinsamer Note (50%)
+| Kompetenznachweis
+a| Teil 1: Projektabgabe mit Zwischenergebnissen (Agile Rituale, Deliverables, Abschlusspräsentation) als Gruppenarbeit mit gemeinsamer Note (50%)
 
 - Semesterwochen
 
 Teil 2: Schlussprüfung (50%), Moodle-Prüfung und praktische Aufgaben, 90 Minuten
 
 - In den offiziellen Prüfungswochen
-- elektronische PC-Prüfung mit https://www.lernstick.ch/[Lernstick EXAM] oder https://campla.github.io/[CAMPLA]
+- elektronische PC-Prüfung mit https://www.lernstick.ch/[Lernstick] und https://www.campla.ch/[CAMPLA]
 
 Gemäss RRS Art. 11 müssen alle Teilkompetenznachweise bestanden sein.
 Die Teilkompetenznachweise werden auf halbe Noten gerundet.
 
 Hilfsmittel bei schriftlicher Prüfung
 
-- Open Book, erweitert durch digitale Dokumente auf USB-Stick oder hochgeladen auf Moodle bzw. CAMPLA-Plattform
+- Open Book, erweitert durch digitale Dokumente hochgeladen auf Moodle bzw. CAMPLA
 - Wörterbuch Muttersprache - Sprache Kompetenznachweis
 - BFH-Taschenrechner
+
+| Bemerkungen
+| Sämtliche Inhalte sind unter https://github.com/digital-sustainability/module-wseg
+unter CC-BY 4.0 als OER veröffentlicht.
 |
 |===
 
@@ -184,7 +189,7 @@ Hilfsmittel bei schriftlicher Prüfung
 
 === Timing
 
-image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/digital-sustainability/module-wseg/24/hs/docs/timing.puml[timing]
+image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/digital-sustainability/module-wseg/25/fs/docs/timing.puml[timing]
 
 === Zweck des Dokuments
 
